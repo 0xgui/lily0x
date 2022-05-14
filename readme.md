@@ -1,13 +1,30 @@
 # lily0x: lily58 pro build
 
 
-[![Current Version](https://img.shields.io/github/tag/qmk/qmk_firmware.svg)](https://github.com/qmk/qmk_firmware/tags)
+This is my custom lily58 pro build.
 
-This is my custom lily58 pro build. With the help of the [original](https://github.com/kata0510/Lily58/blob/master/Pro/Doc/buildguide_en.md) I managed to build this open source keyboard.
+![](imgs/key.jpg)
+
+With the help of the [original](https://github.com/kata0510/Lily58/blob/master/Pro/Doc/buildguide_en.md) I managed to build this open source keyboard.
 
 This repo is a fork of qmk_firmware with my custom layout added in the lily58 keymaps.
 
-## Layout
+## Layouts
+
+With the raise and lower keys, it's possible to have custom layers.
+
+### Layout 0 
+*(Sorry about size lol)
+![](imgs/layer0.png)
+
+### Layout 1
+
+![](imgs/lay1.png)
+
+### Layout 2
+
+![](imgs/l2.png)
+
 
 ## Firmware 
 
