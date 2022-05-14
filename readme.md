@@ -14,7 +14,7 @@ This repo is a fork of qmk_firmware with my custom layout added in the lily58 ke
 With the raise and lower keys, it's possible to have custom layers.
 
 ### Layout 0 
-*(Sorry about size lol)
+
 ![](imgs/layer0.png)
 
 ### Layout 1
