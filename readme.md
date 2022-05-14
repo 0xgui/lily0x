@@ -3,7 +3,7 @@
 
 [![Current Version](https://img.shields.io/github/tag/qmk/qmk_firmware.svg)](https://github.com/qmk/qmk_firmware/tags)
 
-This is my custom lily58 pro build.
+This is my custom lily58 pro build. With the help of the [original](https://github.com/kata0510/Lily58/blob/master/Pro/Doc/buildguide_en.md) I managed to build this open source keyboard.
 
 This repo is a fork of qmk_firmware with my custom layout added in the lily58 keymaps.
 
