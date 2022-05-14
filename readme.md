@@ -5,6 +5,8 @@
 
 This is my custom lily58 pro build.
 
+This repo is a fork of qmk_firmware with my custom layout added in the lily58 keymaps.
+
 ## Layout
 
 ## Firmware 
